@@ -56,46 +56,6 @@ document.getElementById('btn').addEventListener("click",()=>{
   // document.getElementById('display-price').innerText='00.00'
   // document.getElementById('display-discount').innerText='00.00'
   // document.getElementById('display-total').innerText='00.00'})
-
 location.href="index.html"
-
-
-
-
-
-
 })
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
